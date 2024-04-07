@@ -3,7 +3,7 @@
   <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>arrays and loops Version 3</title>
+      <title>arrays and loops Version 11</title>
       <style>
     
 
@@ -19,7 +19,7 @@
      myArray[0]
      myArray[0] = 99;
      
-     [1, 'goodbye', false, { name: 'socks'}, [1, 2]]     
+     [1, 'goodbye', false, { name: 'socks', 'pants'}, [1, 2]]     
      
      myArray.push(100);
      console.log(myArray);
